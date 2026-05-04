@@ -24,6 +24,7 @@ Inflation forecasting is a complex problem influenced by multiple dynamic factor
   
 # Setup
 1. Installation
+   
     git clone https://github.com/D-Bavanapriya/Inflation-prediction-.git
 
     cd Inflation-prediction-
